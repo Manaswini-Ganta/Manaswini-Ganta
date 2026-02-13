@@ -2,7 +2,7 @@
 
 I convert raw data into structured, decision-ready intelligence.
 
-Aspiring Data Analyst / Business Analyst focused on quantifying business performance, customer behavior, and growth dynamics.
+Data Analyst / Business Analyst focused on quantifying business performance, customer behavior, and growth dynamics.
 
 ## What I Do
 - Analyze large-scale datasets using SQL and Python
