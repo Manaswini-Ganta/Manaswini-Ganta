@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Manaswini 👋
 
-<!--
-**Manaswini-Ganta/Manaswini-Ganta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I convert raw data into structured, decision-ready intelligence.
 
-Here are some ideas to get you started:
+Aspiring Data Analyst / Business Analyst focused on quantifying business performance, customer behavior, and growth dynamics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- Analyze large-scale datasets using SQL and Python
+- Engineer high-impact KPIs tied to revenue and performance
+- Build dashboards that translate data into executive insights
+- Identify patterns, anomalies, and concentration risks
+- Design segmentation and analytical frameworks for strategic decisions
+
+## Core Competencies
+- SQL (PostgreSQL, MySQL)
+- Python (Data Analysis)
+- Power BI (Dashboarding & Visualization)
+- Excel (Advanced Analytics & Reporting)
+- KPI Engineering & Metric Design
+- Customer & Revenue Analytics
+
+## Current Project
+- E-commerce Customer Analytics & RFM Segmentation (1M+ transactions)
+
+More projects coming soon 🚀
+
+Data doesn’t speak.  
+It responds to structure.
