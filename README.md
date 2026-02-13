@@ -19,7 +19,7 @@ Data Analyst / Business Analyst focused on quantifying business performance, cus
 - KPI Engineering & Metric Design
 - Customer & Revenue Analytics
 
-## Current Project
+## Selected Project
 - E-commerce Customer Analytics & RFM Segmentation (1M+ transactions)
 
 Data doesn’t speak.  
