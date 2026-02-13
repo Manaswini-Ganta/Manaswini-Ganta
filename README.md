@@ -22,7 +22,5 @@ Data Analyst / Business Analyst focused on quantifying business performance, cus
 ## Current Project
 - E-commerce Customer Analytics & RFM Segmentation (1M+ transactions)
 
-More projects coming soon 🚀
-
 Data doesn’t speak.  
 It responds to structure.
