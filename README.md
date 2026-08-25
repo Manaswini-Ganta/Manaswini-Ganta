@@ -31,14 +31,14 @@ Worked on data cleaning and reporting, preparing raw datasets for analysis and b
 
 ## Featured Projects
 
-### 📊 [E-commerce Customer Churn & Risk Intelligence](LINK_TO_REPO)
+### 📊 [E-commerce Customer Churn & Risk Intelligence](https://github.com/Manaswini-Ganta/ecommerce-churn-analytics)
 Analyzed **279K customers and ₹1,222.2M in revenue** to uncover a **54.37% churn rate**. Found that just 17% of customers (the "loyal" segment) drive 34% of total revenue, and built a 5-page dashboard — Executive Overview, Churn & Risk, Customer Value, Retention Action Center, and Customer 360 — to prioritize retention strategy by segment.
 
 **Impact:** Flagged 41K high-risk customers · Identified 1-time buyers as highest churn risk (82.56%) · Quantified ₹339M in revenue tied to the highest-risk "occasional" segment
 
 **[Live Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZjgwY2QwNWItMTdiOC00N2VkLTkwZGEtYTBkNTg5NmVlMzE4IiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D&pageName=2f9e4a7a39b0079ea2d2)**
 
-### 🏦 [BERKA Bank — Fraud & Risk Analytics](LINK_TO_REPO)
+### 🏦 [BERKA Bank — Fraud & Risk Analytics](https://github.com/Manaswini-Ganta/banking-fraud-risk-analytics)
 Analyzed **13.31M transactions worth $571.84M** across a decade to detect fraud concentration and drive targeted controls. Built a 4-page dashboard — Transaction Command Center, Customer & Spending Behavior, Fraud & Risk Command Center, and Risk Investigation & Business Actions.
 
 **Impact:** Found online transactions drive 65.85% of fraud from just 11.71% of volume · Flagged 295 of 1,219 customers (24%) as high-risk · Identified Ohio as the highest fraud-rate state (2.5x the lowest)
